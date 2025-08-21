@@ -1,0 +1,25 @@
+{
+  "training": {
+    "batch_size": 64,
+    "learning_rate": 0.001,
+    "epochs": 15,
+    "device": "auto",
+    "data_augmentation": true,
+    "validation_split": 0.2,
+    "max_games_per_pgn": 10000,
+    "min_player_rating": 2000,
+    "exclude_bullet_games": true,
+    "min_game_length": 20
+  },
+  "neural_network": {
+    "residual_blocks": 19,
+    "filters": 256,
+    "policy_head_filters": 32,
+    "value_head_filters": 1
+  },
+  "paths": {
+    "models_dir": "data/models",
+    "training_data_dir": "data/training_data",
+    "opening_book_dir": "data/opening_books"
+  }
+}

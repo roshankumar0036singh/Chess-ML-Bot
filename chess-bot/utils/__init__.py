@@ -1,0 +1,1 @@
+"""Chess ML Bot package"""
