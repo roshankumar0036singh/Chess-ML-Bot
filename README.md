@@ -278,14 +278,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 🐛 **Issues**: [GitHub Issues](https://github.com/your-username/chess-ml-bot/issues)
-- 💬 **Discussions**: [GitHub Discussions](https://github.com/your-username/chess-ml-bot/discussions)
-- 📧 **Email**: your-email@example.com
-- 🐦 **Twitter**: [@your-twitter](https://twitter.com/your-twitter)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/roshankumar0036singh/chess-ml-bot/issues)
+- 💬 **Discussions**: [GitHub Discussions](https://github.com/roshankumar0036singh/chess-ml-bot/discussions)
+- 📧 **Email**: roshankumar0036@gmail.com
+
 
 ## ⭐ Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=your-username/chess-ml-bot&type=Date)](https://star-history.com/#your-username/chess-ml-bot&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=roshankumar0036singh/chess-ml-bot&type=Date)](https://star-history.com/roshankumar0036singh/chess-ml-bot&Date)
 
 ---
 
@@ -293,6 +293,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **🔥 Ready to play chess against AI?**
 
-[**Play Now**](https://github.com/your-username/chess-ml-bot) • [**Documentation**](https://your-username.github.io/chess-ml-bot) • [**Demo**](https://your-demo-link.com)
+[**Play Now**](https://github.com/roshankumar0036singh/chess-ml-bot) • [**Documentation**](https://roshankumar0036singh.github.io/chess-ml-bot)
 
 </div>
