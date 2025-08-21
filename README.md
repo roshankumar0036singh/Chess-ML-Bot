@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/your-username/chess-ml-bot?style=social)](https://github.com/your-username/chess-ml-bot)
+[![GitHub Stars](https://img.shields.io/github/stars/roshankumar0036singh/chess-ml-bot?style=social)](https://github.com/roshankumar0036singh/chess-ml-bot)
 
 A sophisticated AI chess engine powered by deep learning and Monte Carlo Tree Search (MCTS). Features a responsive GUI, opening books, endgame tablebases, and AlphaZero-style self-play training.
 
